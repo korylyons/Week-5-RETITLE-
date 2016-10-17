@@ -1,0 +1,7 @@
+In Knight Rider, why does each LED require its own pin?
+  Each LED is running something different. They are not doing the exact same thing at the same time, also
+  only one side of the LED can fit into one pin.
+Why is Knight Rider 2 in the Arduino tutorial so much shorter than Knight Rider 1?
+  The second video only shows the program running, it lacks the tutorial that Knight Rider 1 showed.
+What resistor value should be used with the LEDs?
+  According to the Arduino website it is 220 Ohms.
