@@ -6,3 +6,5 @@
   EDIT: Knight Rider 2 uses an array.
 3. What resistor value should be used with the LEDs?
   According to the Arduino website it is 220 Ohms.
+  EDIT: In electronics the Ohms go not have to be exact. 
+  Note: The higher the Ohm the less bright the LED, and the shorter lifespan it will have.
