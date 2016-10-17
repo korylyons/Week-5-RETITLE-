@@ -3,6 +3,6 @@
   only one side of the LED can fit into one pin.
 2. Why is Knight Rider 2 in the Arduino tutorial so much shorter than Knight Rider 1
   The second video only shows the program running, it lacks the tutorial that Knight Rider 1 showed.
-  EDIT: Knight Rider 2 has a condenses code.
+  EDIT: Knight Rider 2 uses an array.
 3. What resistor value should be used with the LEDs?
   According to the Arduino website it is 220 Ohms.
